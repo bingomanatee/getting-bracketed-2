@@ -11,6 +11,5 @@ builds
 **/yarn.lock
 **/.env.local
 .cache
-/dist
 **/.scss-cache
 .sass-cache
